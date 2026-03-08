@@ -1,0 +1,5 @@
+google.com
+github.com
+bbc.co.uk
+cloudflare.com
+amazon.com
